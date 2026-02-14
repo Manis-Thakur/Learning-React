@@ -1,7 +1,9 @@
 
 import Header from './Header.jsx'
 import Card from './Card.jsx'
+import Button from './Button.jsx'
 import Footer from './Footer.jsx'
+
 function App() {
   return ( 
     <>
@@ -9,7 +11,8 @@ function App() {
     <Card />
     <Card />
     <Card />
-    <Card />
+    <Card /><><br /><br /></>
+    <Button />
     <Footer />
     </>
     
